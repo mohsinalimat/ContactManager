@@ -22,7 +22,7 @@ pod "ContactManager"
 
 ## Author
 
-patelvirajd78@gmail.com, ios2.webmobtech@gmail.com
+Viraj Patel, mspviraj@hotmail.com
 
 ## License
 

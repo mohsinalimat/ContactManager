@@ -1,0 +1,22 @@
+{
+  "name": "ContactManager",
+  "version": "0.1.0",
+  "summary": "A short description of ContactManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/patelvirajd78@gmail.com/ContactManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "patelvirajd78@gmail.com": "ios2.webmobtech@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/patelvirajd78@gmail.com/ContactManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ContactManager/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - ContactManager (0.1.0)
+
+DEPENDENCIES:
+  - ContactManager (from `../`)
+
+EXTERNAL SOURCES:
+  ContactManager:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ContactManager: 3afa8104c173f2340023ddc64421d794958afa81
+
+PODFILE CHECKSUM: 85e25625cca0efe89da70972268135502d9b81d3
+
+COCOAPODS: 1.2.1.beta.1
