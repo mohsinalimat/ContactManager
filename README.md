@@ -1,6 +1,5 @@
 # ContactManager
 [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=59a59ae5e0a69d0001eb87dc&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/59a59ae5e0a69d0001eb87dc/build/latest?branch=master)
-[![CI Status](http://img.shields.io/travis/mspvirajpatel/ContactManager.svg?style=flat)](https://travis-ci.org/mspvirajpatel/ConatctManager)
 [![Version](https://img.shields.io/cocoapods/v/ContactManager.svg?style=flat)](http://cocoapods.org/pods/ContactManager)
 [![License](https://img.shields.io/cocoapods/l/ContactManager.svg?style=flat)](http://cocoapods.org/pods/ContactManager)
 [![Platform](https://img.shields.io/cocoapods/p/ContactManager.svg?style=flat)](http://cocoapods.org/pods/ContactManager)
